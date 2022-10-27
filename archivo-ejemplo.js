@@ -9,3 +9,6 @@ const lastname = "Severiche";
 const name= "usuario 2";
 const lastname2 = "local";
 console.log(name);
+
+// New line usu1
+console.log("Hello")
